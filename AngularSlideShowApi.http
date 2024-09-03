@@ -1,0 +1,6 @@
+@AngularSlideShowApi_HostAddress = http://localhost:5187
+
+GET {{AngularSlideShowApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
